@@ -11,6 +11,7 @@ developers:
 instructors: []
 idle_timeout: 300
 timelimit: 1200
+sandbox_preset: weareworking
 lab_config:
   extend_ttl: 0
   sidebar_enabled: true
