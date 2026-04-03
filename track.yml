@@ -1,7 +1,7 @@
 slug: untitled-track-szfewo
 id: f22va3isenrr
 revision: 1
-title: chnages-from-git
+title: chnages-from-instruqt
 description: ""
 icon: ""
 tags: []
@@ -18,6 +18,5 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  override_challenge_layout: false
   loadingMessages: true
 enhanced_loading: null
